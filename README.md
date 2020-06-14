@@ -1,7 +1,8 @@
 # testingappdev
 
-Testing various things needed for mobile application
-Using Flutter: 
+Testing various things needed for mobile application   
+
+Using Flutter:    
 https://flutter.dev/docs
 
 Implemented Maps tutorial:   
