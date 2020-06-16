@@ -5,7 +5,7 @@
 ### Using [Flutter](https://flutter.dev/docs)
 
 ### GMaps
-[google_maps_flutter]((https://pub.dev/packages/google_maps_flutter#-readme-tab-)
+[google_maps_flutter](https://pub.dev/packages/google_maps_flutter#-readme-tab-)
 Implemented Maps [tutorial](https://codelabs.developers.google.com/codelabs/google-maps-in-flutter/#0)
 
 Hid API keys for [IOS](https://medium.com/@AyunasCode/how-to-hide-your-api-keys-367ef6589949) & [Android](https://guides.codepath.com/android/Storing-Secret-Keys-in-Android)
