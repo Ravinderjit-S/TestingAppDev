@@ -17,6 +17,9 @@ Hid API keys for [IOS](https://medium.com/@AyunasCode/how-to-hide-your-api-keys-
   - [What is Rest API](https://www.youtube.com/watch?v=qVTAB8Z2VmA)
   
 ### JSON:
-There are 2 useful flutter packages: [json_serializable](https://pub.dev/packages/json_serializable#-readme-tab-) and [built_value](https://pub.dev/packages/built_value)
-  
-  
+There are 2 useful flutter packages: [json_serializable](https://pub.dev/packages/json_serializable#-readme-tab-) and [built_value](https://pub.dev/packages/built_value) 
+
+### [Firebase] (https://firebase.google.com/) 
+- Great tool for [authentication](https://firebase.google.com/products/auth) 
+- Hid google-services.json file as it contians api keys 
+- Integrating [example code](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_auth/firebase_auth/example) from firebase for authentification 
