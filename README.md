@@ -15,6 +15,7 @@ Hid API keys for [IOS](https://medium.com/@AyunasCode/how-to-hide-your-api-keys-
   - [Parts of an HTTP Request](https://www.youtube.com/watch?v=pHFWGN-upGM)
   - [HTTP Methods](https://www.youtube.com/watch?v=guYMSP7JVTA)
   - [What is Rest API](https://www.youtube.com/watch?v=qVTAB8Z2VmA)
+- [HTTP package](https://pub.dev/packages/http) for Flutter 
   
 ### JSON:
 There are 2 useful flutter packages: [json_serializable](https://pub.dev/packages/json_serializable#-readme-tab-) and [built_value](https://pub.dev/packages/built_value)
